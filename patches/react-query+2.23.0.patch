@@ -1,0 +1,20 @@
+https://github.com/tannerlinsley/react-query/pull/1093
+diff --git a/node_modules/react-query/package.json b/node_modules/react-query/package.json
+index e1d51bf..3aeb55c 100644
+--- a/node_modules/react-query/package.json
++++ b/node_modules/react-query/package.json
+@@ -13,6 +13,14 @@
+   "main": "lib/index.js",
+   "unpkg": "dist/react-query.development.js",
+   "types": "types/index.d.ts",
++  "typesVersions": {
++    "*": {
++      "es/*": [
++        "types/*",
++        "types/*/index.d.ts"
++      ]
++    }
++  },
+   "module": "es/index.js",
+   "scripts": {
+     "test": "is-ci \"test:ci\" \"test:dev\"",
