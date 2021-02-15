@@ -1166,11 +1166,6 @@
     find-up "^5.0.0"
     type-fest "^0.21.1"
 
-"@clark/prettier-config@^2.1.0":
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/@clark/prettier-config/-/prettier-config-2.1.0.tgz#2b4de9b37b30a16d87b7aff99fda7861307a7aa5"
-  integrity sha512-+dVJiLr0335uqAYoAcJuB+u33UlANNEFeYm8OjWWvjYER6fJHCsRkn1CbX2FIG7jdMpBiu/JCRKsqj+QlX0h/w==
-
 "@clark/prettier-config@^2.2.0":
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/@clark/prettier-config/-/prettier-config-2.2.0.tgz#9a6b622bfb7b924f33249796dafa0f3b281a95cd"
