@@ -1088,15 +1088,15 @@
   dependencies:
     "@clark/eslint-plugin-import-helpers-with-package" "^2.2.0"
 
-"@clark/eslint-config-ember-typescript@^2.1.0":
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/@clark/eslint-config-ember-typescript/-/eslint-config-ember-typescript-2.1.0.tgz#0f6b9a2e678404e879ca54eda236c4bd885626d1"
-  integrity sha512-ILKvI02TYSsdZJbBdhzG14pfTYBSEb7rX3uPd9F1R0NhwwaU+Tjr7zKvhg5w5Y3WX5EyN+PbjHGzcAFWmy0xAA==
+"@clark/eslint-config-ember-typescript@^2.2.0":
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/@clark/eslint-config-ember-typescript/-/eslint-config-ember-typescript-2.2.0.tgz#065a8608c62b98596bbc6418e121b803104d3162"
+  integrity sha512-QROBxYKjTdbL/gzfb/CVo8A0BmUwRQUQY/zLnpW2xLb6Y/ExwCok7NY5U/BxpJ4PBlob+ZhoaXGr/xUxazuuWg==
   dependencies:
-    "@clark/eslint-config-ember" "^2.1.0"
-    "@clark/eslint-config-typescript" "^2.1.0"
+    "@clark/eslint-config-ember" "^2.2.0"
+    "@clark/eslint-config-typescript" "^2.2.0"
 
-"@clark/eslint-config-ember@^2.1.0", "@clark/eslint-config-ember@^2.2.0":
+"@clark/eslint-config-ember@^2.2.0":
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/@clark/eslint-config-ember/-/eslint-config-ember-2.2.0.tgz#17621879f5a9a66aa1b27869b52d6ee957528385"
   integrity sha512-mWnUiGarKj0oXDC5PWPF4EFyvo98y0sufsm2qimXikwUEpM18whTJ9LmLT39IoOv8576Zon8BmFdUsXGqMQ6qg==
@@ -1126,16 +1126,16 @@
     eslint-plugin-node "^11.1.0"
     lodash.merge "^4.6.2"
 
-"@clark/eslint-config-typescript@^2.1.0":
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/@clark/eslint-config-typescript/-/eslint-config-typescript-2.1.0.tgz#7be5fdfa72c1a6905d4e70c4f5d0c7e43a700297"
-  integrity sha512-jk46QVtA6RA4/UupVyCVK+xMGuRb9O78OkOi/gxjdmqyHyf0hN8eHhkQYsV49wpZQIidXohCzUpCW2WnmcvzoQ==
+"@clark/eslint-config-typescript@^2.2.0":
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/@clark/eslint-config-typescript/-/eslint-config-typescript-2.2.0.tgz#68bbdf34ad8fe10234813fc397a145b9e163db7a"
+  integrity sha512-u0S7aCq95dJjevd/UZBM4aopgalASJm8uJGJ/jnyUMCuqIGi9CCI0wJPjvp7tuKX4UISuPvIdW0eKwBbp/FB2w==
   dependencies:
-    "@clark/eslint-config" "^2.1.0"
+    "@clark/eslint-config" "^2.2.0"
     "@typescript-eslint/eslint-plugin" "^4.15.0"
     "@typescript-eslint/parser" "^4.15.0"
 
-"@clark/eslint-config@^2.1.0", "@clark/eslint-config@^2.2.0":
+"@clark/eslint-config@^2.2.0":
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/@clark/eslint-config/-/eslint-config-2.2.0.tgz#b0b1cca37d835c450a8d2ca14bcfcff80ddc209e"
   integrity sha512-ALS7cdVmsVWjSJ+pUW86pEpQMxoZ4BU4XR1iMQh/NiMaBgehe1Tq5qw3IQGVHtJsElTzmieBGxM4snrWH+1YeA==
