@@ -44,7 +44,7 @@
     "ember-cli-babel": "^7.26.3",
     "ember-cli-htmlbars": "^5.7.1",
     "ember-cli-typescript": "^4.1.0",
-    "react-query": "^3.13.12"
+    "react-query": "^3.15.0"
   },
   "devDependencies": {
     "@clark/ember-template-lint-config": "^0.2.2",
